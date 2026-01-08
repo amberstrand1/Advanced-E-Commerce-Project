@@ -331,7 +331,8 @@ FEATURES
 .book {
   width: 25%;
   padding: 24px;
- 
+  align-items: center;
+  text-align: center;
 }
 
 .book__img {
